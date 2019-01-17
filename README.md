@@ -1,2 +1,2 @@
-# simple-scripts-bash
-Simple BASH scripts
+# Some simple BASH scripts
+
